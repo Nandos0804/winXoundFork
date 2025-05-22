@@ -14,3 +14,10 @@ make sure to have this package
 - vte
 - webkit
 
+
+## TO DO
+
+- remove anjuta
+- update deprecated libraries
+- build  on arm
+
