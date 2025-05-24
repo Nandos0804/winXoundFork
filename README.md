@@ -20,4 +20,4 @@ make sure to have this package
 - remove anjuta
 - update deprecated libraries
 - build  on arm
-
+- rimuovere info anjuta
